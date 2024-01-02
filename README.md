@@ -2,4 +2,4 @@
 
 # Ahoy 👋
 
-I'm a developer and designer from Perth, Australia. Currently working at [Spacetoco.com](https://www.spacetoco.com/) — building the platform to modernise the way people share and book spaces around Australia and New Zealand.
+I'm a software developer and product designer from Perth, Australia. Currently working at [icetana.ai](https://www.icetana.ai/) — using AI to empower security cameras.
