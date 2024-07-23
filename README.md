@@ -2,4 +2,4 @@
 
 # Ahoy 👋
 
-I'm a software developer and product designer from Perth, Australia. Currently working at [icetana.ai](https://www.icetana.ai/).
+I'm a Product Design Engineer from Perth, Australia. Currently working at [Buildkite](https://www.buildkite.com/).
