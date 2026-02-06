@@ -17,7 +17,7 @@
 | Name | Description | When |
 | :--- | :--- | :--- |
 | 🪓 [**Sunder**](https://sunder.today/) | Split your tasks in two | 2026 |
-| 🌀 [**Squooji**](https://www.tomwatts.dev/squooji) | [A calm emoji playground for kids | 2026 |
+| 🌀 [**Squooji**](https://www.tomwatts.dev/squooji) | A calm emoji playground for kids | 2026 |
 | 🗂️ [**BoardTab**](https://boardtab.com/) | Visual cognitive load management for browsers | 2025 |
 | 🖼️ [**CompareShots**](https://compareshots.com/) | Professional-grade image diffing and sharing | 2025 |
 | 📅 [**JsonCalendar**](https://jsoncalendar.netlify.app) | Use JSON to visualise your day | 2025 |
