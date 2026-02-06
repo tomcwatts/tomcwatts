@@ -12,7 +12,7 @@
 </p>
 
 ## Projects
-| Name | Focus | Status |
+| Name | Focus | Year |
 | :--- | :--- | :--- |
 | 🪓 [**Sunder**](https://sunder.today/) | Minimalist todo app | 2026 |
 | 🌀 [**Squooji**](https://www.tomwatts.dev/squooji) | Physics-based interactive canvas for kids | 2026 |
