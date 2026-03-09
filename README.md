@@ -9,7 +9,7 @@
 
 <p>
   <a href="https://www.tomwatts.dev/">Portfolio</a> · 
-  <a href="https://www.linkedin.com/in/tom_watts_perth">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/tom-watts-perth">LinkedIn</a>
 </p>
 
 ## Projects
