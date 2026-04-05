@@ -1,14 +1,9 @@
-
 <p>
-  <b>Ahoy 👋🏻 I'm Tom</b>
+  Design engineer at <b>Buildkite</b>. 
 </p>
 
 <p>
-  Design engineer at <b>Buildkite</b> who builds apps and tools outside of work to solve my own problems.
-</p>
-
-<p>
-  <a href="https://www.tomwatts.dev/">Portfolio</a> · 
+  <a href="https://www.tomwatts.dev/">Site</a> · 
   <a href="https://www.linkedin.com/in/tom-watts-perth">LinkedIn</a>
 </p>
 
