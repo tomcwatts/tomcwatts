@@ -12,7 +12,7 @@
 | Name | Description | When |
 | :--- | :--- | :--- |
 | 📝 [**Totalnote**](https://totalnote.app/) | Notepad calculator for thinking in numbers | 2026 |
-| 📆 [**Slated**](https://slated.today/) | Streamlined tasks for today and the week | 2026 |
+| 🧠 [**Slated**](https://slated.today/) | A personal task list for getting today out of your head | 2026 |
 | 🎨 [**Auto Project Colors**](https://marketplace.visualstudio.com/items?itemName=tomwatts.auto-project-colors) | Open source VS code extension to auto color windows | 2026 |
 | 🪓 [**Sunder**](https://sunder.today/) | iOS app to split your tasks in two | 2026 |
 | 🌀 [**Squooji**](https://www.tomwatts.dev/squooji) | iOS emoji playground app for kids | 2026 |
